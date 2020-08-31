@@ -1,5 +1,28 @@
+.logo-space {
+	margin: auto;
+	max-width: 690px;
+}
+
 .logo-icon {
-	width: 50%;
+	/*width: 50%;*/
+	max-width: 668px;
 	height: auto;
+}
+
+.nav {
+	margin: auto;
+	padding: 5px;
+	max-width: 340px;
+}
+
+.content {
+	max-width: 500px;
+	margin: auto;
+	padding: 10px;
+}
+
+.oval {
+	height: auto;	
+	padding: 2px
 }
 
