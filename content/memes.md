@@ -4,7 +4,7 @@ Category: Nonetype
 Slug: memes
 
 ## Octocat Meme
-![someimage]({static}/memes/octocatMeme.png)
+![someimage]({static}/images/octocatMeme.png)
 
 ## MLH Swag Rarity Chart
-![someimage]({static}/memes/mlh_rarityChart.png)
+![someimage]({static}/images/mlh_rarityChart.png)
