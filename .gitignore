@@ -1,4 +1,5 @@
 __pycache__/
 output/
+spat-env
 *.sublime-project
 *.sublime-workspace
