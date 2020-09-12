@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }}{% endblock %}
+
+{% block head %}
+	{{ super() }}
+	{% for tag in article.tags %}
+		<meta name="tags" content="{{tag}}" />
+	{% endfor %}
+{% endblock %}
+
+{% block content %}
+<section id="content">
+	<h1>{{ article.title }}</h1>
+	<label>Posted on perperper <strong>{{ article.date }}</strong></label>
+	{{ article.content }}
+	{% if article.category %}
+	<div class="category">
+		Category: {{ article.category }}
+	</div>
+	{% endif %}
+</section>
+{% endblock %}

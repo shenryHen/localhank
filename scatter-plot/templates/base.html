@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% block head %} 
+	 	<title>{% block title %}{% endblock %}</title>
+		{% endblock head %}
+
+		<link rel="stylesheet" type="text/css" href=".{{ SITEURL }}/theme/css/style.css" />
+	</head>
+
+	<body>
+		<header>
+			<div class="logo-space">
+				<img class="logo-icon" src=".{{ SITEURL }}/theme/images/logo.svg">
+			</div>
+		</header>
+		<nav>
+		{% for title, link in MENUITEMS %}
+			<li><a href="{{ link }}">{{ title }}</a>
+		{% endfor %}
+		</nav>
+		<div class="container">
+	  	{% block content %}{% endblock %}
+	 	</div>
+	</body>
+
+	<footer>
+		<address id="about" class="vcard body">
+			Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
+            which takes great advantage of <a href="https://www.python.org/">Python</a>.
+	</footer>
+</html>

@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Hank Shen'
-SITENAME = 'SeveralPeopleAreTrying'
-SITEURL = '' #'SeveralPeopleAreTrying.today'
+SITENAME = 'LocalHank'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -28,7 +28,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-THEME = 'custom-themes/scatter-plot'
+THEME = 'scatter-plot'
 THEME_STATIC_DIR = 'theme'
 
 # Uncomment following line if you want document-relative URLs when developing
