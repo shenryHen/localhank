@@ -10,14 +10,13 @@
 {% endblock %}
 
 {% block content %}
-<section id="content">
-	<h1>{{ article.title }}</h1>
-	<label>Posted on perperper <strong>{{ article.date }}</strong></label>
-	{{ article.content }}
-	{% if article.category %}
-	<div class="category">
-		Category: {{ article.category }}
-	</div>
+<section>
+	<h1 class="article-title">{{ article.title }}</h1>
+	{% if article.category != "list" %}
+	<label>Posted on <strong>{{ article.date|strftime('%d %B %Y') }}</strong></label>
 	{% endif %}
+		<div class="article-content"> 
+		{{ article.content }}
+		</div>
 </section>
 {% endblock %}

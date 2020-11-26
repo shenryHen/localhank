@@ -1,12 +1,6 @@
 {% extends "base.html" %}
-{% block content %}
-<section>	
-	<div class="content">
-		<div class="nav">
-			<a href="./lol-qual-memes"><img class="oval" src="{{ SITEURL }}/theme/images/oval-memes.svg"/></a>
-			<a href="./blm-korra"><img class="oval" src="{{ SITEURL }}/theme/images/oval-blm-korra.svg"/></a>
-			<img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/>
-		</div>
-	</div>
-</section>
-{% endblock content %}
+
+{% block footer %}
+	{% include "footer.html" %}
+{% endblock %}
+

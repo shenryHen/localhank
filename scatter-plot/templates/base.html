@@ -9,24 +9,30 @@
 	</head>
 
 	<body>
+		{% block header %}
 		<header>
-			<div class="logo-space">
+			<a href="/"><div class="logo-space">
 				<img class="logo-icon" src=".{{ SITEURL }}/theme/images/logo.svg">
 			</div>
+		</a>
 		</header>
-		<nav>
-		{% for title, link in MENUITEMS %}
-			<li><a href="{{ link }}">{{ title }}</a>
-		{% endfor %}
-		</nav>
-		<div class="container">
-	  	{% block content %}{% endblock %}
-	 	</div>
-	</body>
+		{% endblock %}
 
-	<footer>
-		<address id="about" class="vcard body">
-			Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
-            which takes great advantage of <a href="https://www.python.org/">Python</a>.
-	</footer>
+		{% block navbar %}
+		<nav>		
+			<div class="nav">
+				<a href="./lol-qual-memes"><img class="oval" src="{{ SITEURL }}/theme/images/oval-lol-qual.svg"/></a>
+				<a href="./content-list"><img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/></a>
+			</div>
+		</nav>
+		{% endblock %}
+
+		<div class="content">
+		{% block content %}
+	  	{% endblock %}
+		</div>
+	</body>
+	<div>
+	{% block footer %}{% endblock %}
+	</div>
 </html>
