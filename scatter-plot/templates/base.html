@@ -5,14 +5,14 @@
 	 	<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
 		{% endblock head %}
 
-		<link rel="stylesheet" type="text/css" href=".{{ SITEURL }}/theme/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
 	</head>
 
 	<body>
 		{% block header %}
 		<header>
 			<a href="/"><div class="logo-space">
-				<img class="logo-icon" src=".{{ SITEURL }}/theme/images/logo.svg">
+				<img class="logo-icon" src="{{ SITEURL }}/theme/images/logo.svg">
 			</div>
 		</a>
 		</header>
@@ -22,7 +22,7 @@
 		<nav>		
 			<div class="nav">
 				<a href="./lol-qual-memes"><img class="oval" src="{{ SITEURL }}/theme/images/oval-lol-qual.svg"/></a>
-				<a href="./content-list"><img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/></a>
+				<a href="./categories"><img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/></a>
 			</div>
 		</nav>
 		{% endblock %}

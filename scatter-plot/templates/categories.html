@@ -3,10 +3,14 @@
 {% block title %}{{ SITENAME }} - Categories{% endblock %}
 
 {% block content %}
-    <h1>Categories on {{ SITENAME }}</h1>
-    <ul>
-    {% for category, articles in categories|sort %}
-        <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|count }})</li>
-    {% endfor %}
-    </ul>
+<div class="article-content"> 
+	<h1>{{ SITENAME }} Article List</h1>
+	<ul>
+	{% for article in articles %}
+		{% if article.hidden != "True" %}
+			<li><a href="{{article.url}}">{{ article.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+</div>
 {% endblock %}

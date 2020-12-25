@@ -15,9 +15,9 @@
 	{% if article.category != "list" %}
 	<label>Posted on <strong>{{ article.date|strftime('%d %B %Y') }}</strong></label>
 	{% endif %}
-		<div class="article-content"> 
-		{{ article.content }}
-		</div>
+	<div class="article-content"> 
+	{{ article.content }}
+	</div>
 </section>
 
 {# {% if article.category|string() == "Shannon-Sharpe-quotes" %}
