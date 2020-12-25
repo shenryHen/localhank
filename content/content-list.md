@@ -3,6 +3,6 @@ Date: 2020-11-26
 Category: list
 Slug: content-list
 
-[Korra]({filename}/blm-korra.md)
+[A Black Lives Matter Interpretation of Korra Season 1]({filename}/blm-korra.md)
 
-[Chelsea FC]({filename}/chelsea-fc.md)
+[Top Shannon Sharpe Quotes (in no particular order)]({filename}/shannon-sharpe.md)
