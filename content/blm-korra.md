@@ -11,7 +11,7 @@ These images were created during the Black Lives Matter movement in the coronavi
  equalists were unreasonably overpowered in the show. "Their chi blocking shouldn't be able to stop Korra!", I thought.
  But chi blocking's technique probably developed a lot since it was first introduced in The Last Airbender. Anyways, 
  here is my BLM interpretation of specific scenes. These were originally made for Instagram, as I wanted to get social
- media clout with these. That is why all of these photos are pictures of a TV or laptop
+ media clout with these. That is why all of these photos are pictures of a TV or laptop.
 
 ## Season 1
 

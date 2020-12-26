@@ -5,12 +5,12 @@
 {% block content %}
 <div class="article-content"> 
 	<h1>{{ SITENAME }} Article List</h1>
-	<ul>
+	<div class="article-list">
 	{% for article in articles %}
 		{% if article.hidden != "True" %}
-			<li><a href="{{article.url}}">{{ article.title }}</a></li>
+			<h2><a href="{{article.url}}">{{ article.title }}</a></h2>
 		{% endif %}
 	{% endfor %}
-	</ul>
+	</div>
 </div>
 {% endblock %}

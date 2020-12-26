@@ -3,18 +3,20 @@ Date: 2020-12-24
 Category: Shannon-Sharpe-quotes
 Slug: sharpe-quotes
 
-# Top Shannon Shape Quotes (in no particular order)
+1. This is not speculation, this in not conjecture, this in not innuendo, this is fact. - 12.22.20 
+<br>_on LeBron James having the most playoff buzzerbeaters in the NBA_ 
 
-1. If you see my fighting a bear don't help me, help the bear - and pour honey on me, cuz I want him to stay right there. Cuz he'll take off and start running when I start whipping him. But if I got honey on me he'll be like "oooh" that tastes good, so I can whip him longer - 12.22.20
+2. It could have been the triangle, rectangle, hexagon, or the circle. - 12.22.20 <br>_On if the Triangle Offense made Michael Jordan great_
 
-2. This is not speculation, this in not conjecture, this in not innuendo, this is fact. - 12.22.20
+3. Luke Kinard, Luke Campbell, Luke Skywalker, it don't matter....Lakers in 6 - 12.22.20 <br>_On the true value of Clipper's player, Luke Kinard_
 
-3. It could have been the triangle, rectangle, hexagon, or the circle - 12.22.20
+4. Club Shay Shay, known for entertainment, but the brunch, is banging - 3.9.20<br>_On his literal and metaphorical restaurant after the Lakers beat the Clippers on 2020, March 8th._
 
-4. Luke Kinard, Luke Campbell, Luke Skywalker, it don't matter....Lakers in 6 - 12.22.20
+5. What they're starting to do is take his kindness for weakness. He might have to touch somebody...he might have to put hands on somebody - you don't have to be a catholic priest. - 11.14.17<br>_On people generally disrespecting LeBron James and assuming his kind nature is a weakness_
 
-5. Club Shay Shay, known for entertainment, but the brunch, is banging - 3.9.20
+6. If you go back and look at our history, things get repeated over and over again' and you take it you take it to be the truth, you take it to be the gospel - 12.22.20<br>_On the propaganda Skip Bayless continuously spews about LeBron not being clutch_
 
-6. What they're starting to do is take his kindness for weakness. He might have to touch somebody…he might have to put hands on somebody - you don't have to be a catholic priest. - 11.14.17
+1. If you see my fighting a bear don't help me, help the bear. And pour honey on me. Cuz I want him to stay right there. Cuz he'll take off and start running when I start whipping him. But if I got honey on me he'll be like "oooh" that tastes good, so I can whip him longer - 12.22.20<br>_On LeBron...that's it. That's who LeBron is._
 
-7. If you go back and look at our history, things get repeated over and over again' and you take it you take it to be the truth, you take it to be the gospel - 12.22.20
+<br><br><br>
+_Shannon Sharpe may have derived these quotes from other people or sources. I'm not attributing him to all of these quotes, but I'm giving him credit as my personal source of these quotes._
