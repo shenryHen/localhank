@@ -1,6 +1,6 @@
-Title: Graphic Design is Like My Side Projects: I Start and Stop at Random Intervals
+Title: Graphic Design is <strike>My Passion</strike> Like My Side Projects: I Start and Stop at Random Intervals 
 Date: 2021-02-24
-Category: list
+Category: designs
 Slug: graphic-designs
 Hidden: True
 
@@ -18,3 +18,6 @@ Hidden: True
 
 ## Owl, Prod
 ![Owl, Prod Release]({static}/images/designs/NightOwl-02.png)
+
+## Various Designs and Imitations for Practice
+<img src="{static}/images/designs/BRLogo.png" width="750 px">

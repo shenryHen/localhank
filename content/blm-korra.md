@@ -21,8 +21,8 @@ These images were created during the Black Lives Matter movement in the coronavi
 ### Anti-capitalist Rally
 ![antiCapitalistRally]({static}/images/blm-korra/antiCapitalistRally.jpg)
 
-### Most Dangerous Rally
-![mostDangerousRally]({static}/images/blm-korra/mostDangerousRally.jpg)
+<!-- ### Most Dangerous Rally
+![mostDangerousRally]({static}/images/blm-korra/mostDangerousRally.jpg) -->
 
 ### Captains of Industry
 ![captainOfIndustry]({static}/images/blm-korra/captainOfIndustry.jpg)
@@ -36,12 +36,12 @@ These images were created during the Black Lives Matter movement in the coronavi
 ### How Real Protesters Be Like
 ![realProtestors]({static}/images/blm-korra/realProtestors.jpg)
 
-### Bootlicker Changed Sides!
+<!-- ### Bootlicker Changed Sides!
 ![formerBootlicker]({static}/images/blm-korra/formerBootlicker.jpg)
 
 ### Nvm
 ![returnedBootlicker]({static}/images/blm-korra/returnedBootlicker.jpg)
-
+ -->
 ### Unmarked Vans
 ![unmarkedVans]({static}/images/blm-korra/unmarkedVans.jpg)
 

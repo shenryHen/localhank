@@ -1,6 +1,6 @@
 Title: Top Shannon Sharpe Quotes (in no particular order)
 Date: 2020-12-24
-Category: Shannon-Sharpe-quotes
+Category: written
 Slug: sharpe-quotes
 
 1. This is not speculation, this in not conjecture, this in not innuendo, this is fact. - 12.22.20 
@@ -18,7 +18,7 @@ Slug: sharpe-quotes
 
 1. If you see me fighting a bear don't help me, help the bear. And pour honey on me. Cuz I want him to stay right there. Cuz he'll take off and start running when I start whipping him. But if I got honey on me he'll be like "oooh" that tastes good, so I can whip him longer - 12.22.20<br>_On LeBron...that's it. That's who LeBron is._
 
-1. Can you stop this foolishness? They gon ban you from Twitter. If you keep tweeting misleading statements, "that Kevin Durant is the best player in the NBA", they gon ban ya. The last guy that did that, he got banned permanently. I don't want you to get banned for a year Skip for tweeting misleading statements!<br>_On Skip Bayless tweeting misinformation that Kevin Durant is the best Player in the NBA. It's obviously still LeBron James, 12.26.21._<br>[source](https://youtu.be/EVK8Fb8W7Cw?t=255)
+1. Can you stop this foolishness? They gone ban you from Twitter. If you keep tweeting misleading statements, "that Kevin Durant is the best player in the NBA", they gon ban ya. The last guy that did that, he got banned permanently. I don't want you to get banned for a year Skip for tweeting misleading statements!<br>_On Skip Bayless tweeting misinformation that Kevin Durant is the best Player in the NBA. It's obviously still LeBron James, 12.26.21._<br>[source](https://youtu.be/EVK8Fb8W7Cw?t=255)
 
 <br><br><br>
 _Shannon Sharpe may have derived these quotes from other people or sources. I'm not attributing him to all of these quotes, but I'm giving him credit as my personal source of these quotes._

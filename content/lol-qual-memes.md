@@ -2,7 +2,7 @@ Title: Lol Quality Memes
 Date: 2020-08-22
 Category: memes
 Slug: lol-qual-memes
-Hidden: True
+
 
 ## Octocat Meme
 ![someimage]({static}/images/lol-qual/octocatMeme.png)
@@ -10,3 +10,6 @@ Hidden: True
 
 ## MLH Swag Rarity Chart
 ![someimage]({static}/images/lol-qual/mlhRarityChart.png)
+
+## hackNY Reviewer vs hackNY Applicant
+![hackNY applicants don't just procratinate, reviewers do too]({static}/images/lol-qual/hackNYReviewer.png)
