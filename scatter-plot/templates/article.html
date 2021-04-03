@@ -13,7 +13,7 @@
 <section>
 	<h1 class="article-title">{{ article.title }}</h1>
 	{% if article.category != "list" %}
-	<label>Posted on <strong>{{ article.date|strftime('%d %B %Y') }}</strong></label>
+	<label>Posted on <strong>{{ article.date|strftime('%d %B %Y') }}</strong>. {% if article.updated is not none %} Article updated on {{ article.updated }} {% else %} NONE {% endif %}</label>
 	{% endif %}
 	<div class="article-content"> 
 	{{ article.content }}

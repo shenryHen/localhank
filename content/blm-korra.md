@@ -1,5 +1,6 @@
 Title: A Black Lives Matter Interpretation of Korra Season 1
 Date: 2020-09-12
+Updated: 2021-02-13
 Category: memes
 Slug: blm-korra
 
