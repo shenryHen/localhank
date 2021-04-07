@@ -4,7 +4,7 @@ Category: written
 Updated: 2021-04-03
 Slug: sharpe-quotes
 
-1. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>_On the LA Clippers making their destiny by blowing a 3-1 lead in the NBA Playoffs after they talked so much shit about Clippers running LA, Kawhi Leonard being better than LeBron, and the media overhyping them up._ 
+1. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>_On the LA Clippers making their destiny by blowing a 3-1 lead in the NBA Playoffs after they talked so much shit about how they were better than the Lakers, how their team was only focused on the playoffs, and how they were only focused on beating LeBron and the Lokers._ 
 
 1. <a href="https://youtu.be/AwjnTYThz54?t=14" target="_blank">This is not speculation, this is not conjecture, this in not innuendo, this is fact. LeBron James has more playoff buzzer beaters than every other player that got a vote</a><br>_On LeBron James having the most playoff buzzerbeaters in the NBA, despite getting no votes in NBA general managers survey on which player they want to take the last shot in a close game._ 
  
