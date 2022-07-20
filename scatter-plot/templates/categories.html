@@ -7,9 +7,7 @@
 	<h1>{{ SITENAME }} Article List</h1>
 	<div class="article-list">
 	{% for article in articles %}
-		{% if article.hidden != "True" %}
-			<h2><a href="{{article.url}}">{{ article.title }}</a></h2>
-		{% endif %}
+		<h2><a href="{{article.url}}">{{ article.title }}</a></h2>
 	{% endfor %}
 	</div>
 </div>

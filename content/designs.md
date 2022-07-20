@@ -2,7 +2,6 @@ Title: Graphic Design is <strike>My Passion</strike> Like My Side Projects: I St
 Date: 2021-02-24
 Category: designs
 Slug: graphic-designs
-Hidden: True
 
 ## Creature Logo
 ![Creature Logo]({static}/images/designs/FeatureCreature-Logo-02.svg)
