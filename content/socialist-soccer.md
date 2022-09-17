@@ -45,3 +45,6 @@ You can sign up to be a Captain, Free Agent, or Teammate.
 6. Games will have 2 20-minute halves and a 5 minute halftime. Each team should appoint a time keeper with a countdown timer to call half time and full time. This rule is subject to change to adapt to league situations.
 7. The SSL is not a working group nor a branch. It's a secret third thing.
 7. LOs will not directly handle Code of Conduct violations. We will follow the DSA National CC and NYC DSA's Constitution for violations.
+
+## Special Thanks
+Special Thanks to Matt M, Ashlyn T, Gabriel S, Jared L, Josh K, and Miranda for helping to create the SSL.
