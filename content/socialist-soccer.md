@@ -12,11 +12,13 @@ Slug: socialist-soccer
 ## League Information
 1. SSL will play on Saturdays in November, from 3:00 pm - 4:30 pm. This includes Nov 5th, 12th, 19th, and 26th. 
 
-2. We will play at **Sara D Roosevelt Park** in Chinatown, at the southern-most soccer field, between **Canal St and Hester St**. Nearby train stations include the B, D, F, A, C, J, Z, 4, and 6. There are also various bus routes and Citibike docks nearby too. The ferry to Seaport is an option too.
-
-3. The Parks Dept. is still reviewing our permit request for Queensbridge Park (QBP), in Queens, for October in about the same timeslot. If that gets approved, me might start the league sooner at QBP. If it gets rejected, we **still might** start the league sooner as well, depending if there is a random open field for us to use.
+1. We will play at **Sara D Roosevelt Park** in Chinatown, at the southern-most soccer field, between **Canal St and Hester St**. Nearby train stations include the B, D, F, A, C, J, Z, 4, and 6. There are also various bus routes and Citibike docks nearby too. The ferry to Seaport is an option too.
 
 1. Registration fee is sliding scale $0-$30. Recommended payment is $10. Non-DSA members are allowed. Just try and get them to pay more for registration XD. We suggest your team be at least half DSA members. 
+
+1. [Baggage Form](https://forms.gle/s36o3bxBFmrEaetB8). This is for people who are free agents and want to join a team with their friend (or lover) who is also a free agent. You put your partner, and your partner puts you, on the baggage form. There is no "daisy chaining" baggage requests. Deadline for baggage requests is October 25 at 11:59 pm
+
+1. We will be creating teams and announcing them between October 25 to 28th. 
 
 ## Registration
 You can sign up to be a Captain, Free Agent, or Teammate. 
