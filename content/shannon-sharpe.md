@@ -1,6 +1,6 @@
 Title: Top Shannon Sharpe Quotes (in no particular order)
 Date: 2020-12-24
-Category: written
+Category: quote list
 Updated: 2021-04-03
 Slug: sharpe-quotes
 

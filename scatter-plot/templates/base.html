@@ -21,9 +21,10 @@
 		{% block navbar %}
 		<nav>		
 			<div class="nav">
-				<a href="./lol-qual-memes"><img class="oval" src="{{ SITEURL }}/theme/images/oval-lol-qual.svg"/></a>
-				<a href="./content-list"><img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/></a>
-				<a href="./graphic-designs"><img class="oval" src="{{ SITEURL }}/theme/images/oval-design.svg"></a>
+				<!-- Todo: rename svg to use category names -->
+				<a href="{{ SITEURL }}/category/memes"><img class="oval" src="{{ SITEURL }}/theme/images/oval-lol-qual.svg"/></a>	
+				<a href="{{ SITEURL }}/category/quote-list"><img class="oval" src="{{ SITEURL }}/theme/images/oval-written-content.svg"/></a>
+				<a href="{{ SITEURL }}/category/designs"><img class="oval" src="{{ SITEURL }}/theme/images/oval-design.svg"></a>
 			</div>
 		</nav>
 		{% endblock %}

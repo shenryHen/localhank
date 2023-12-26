@@ -4,6 +4,7 @@ Updated: 2022-09-17
 Category: sports
 Summary: SSL Rules and News
 Slug: socialist-soccer
+Archived: true
 
 # DSA SSL Information and Rules:
 
