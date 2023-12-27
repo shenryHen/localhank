@@ -3,7 +3,7 @@
 {% block title %}{{ SITENAME }} - {{ category }} category{% endblock %}
 
 {% block content %}
-<h2>{{ category }}</h2>
+<h2>{{ category.name.capitalize() }}</h2>
 {% for article in articles_page.object_list %}
     <li>
         <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>

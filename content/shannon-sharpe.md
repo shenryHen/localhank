@@ -1,7 +1,7 @@
 Title: Top Shannon Sharpe Quotes (in no particular order)
 Date: 2020-12-24
-Category: quote list
-Updated: 2021-04-03
+Category: quote lists
+Updated: 2023-12-26
 Slug: sharpe-quotes
 
 1. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>
