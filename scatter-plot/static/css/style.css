@@ -33,6 +33,10 @@ footer {
 	padding-top: 20px;
 }
 
+li {
+	margin: 10px 0;
+}
+
 .oval {
 	max-width: 144px;
 	height: auto;	
@@ -47,11 +51,15 @@ footer {
 
 .article-content {
 	font-family: "Charcoal", "Helvetica Neue", sans-serif;
-	font-size: 1.2em;
+	font-size: 1.4em;
 	line-height: 32px;
 }
 
 article-content {
 	font-family: inherit;
 	font
+}
+
+.category-item {
+	font-size: 2em;
 }

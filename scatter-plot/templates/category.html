@@ -4,12 +4,17 @@
 
 {% block content %}
 <h2>{{ category.name.capitalize() }}</h2>
-{% for article in articles_page.object_list %}
-    <li>
-        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        <time>{{ article.date|strftime('%b %Y') }}</time>
-    </li>
-{% endfor %}
+
+<div class="">
+    <ul>
+    {% for article in articles_page.object_list %}
+        <li class="category-item">
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            <time>{{ article.date|strftime('%b %Y') }}</time>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
 {% endblock %}
 
 
