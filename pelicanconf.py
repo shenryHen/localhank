@@ -40,3 +40,10 @@ THEME_STATIC_DIR = 'theme'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# For setting the favicon
+STATIC_PATHS = [
+    'extra',
+]
+
+EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}

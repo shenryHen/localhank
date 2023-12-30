@@ -1,4 +1,4 @@
-Title: A Black Lives Matter Interpretation of Korra Season 1
+Title: A Black Lives Matter Interpretation of Legend of Korra, Season 1
 Date: 2020-09-12
 Updated: 2021-02-13
 Category: memes
