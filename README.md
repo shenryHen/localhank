@@ -7,6 +7,5 @@
 ## Canonical article categories
 1. Memes
 2. Designs
-3. Quote List
+3. Quote Lists
 4. Actual writings (in progress...)
-5. Content List

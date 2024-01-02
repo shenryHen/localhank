@@ -1,7 +1,7 @@
 Title: Top Shannon Sharpe Quotes (in no particular order)
 Date: 2020-12-24
-Category: quote lists
 Updated: 2023-12-26
+Category: quote lists
 Slug: sharpe-quotes
 
 1. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>
@@ -28,10 +28,13 @@ Slug: sharpe-quotes
 1. <a href="https://youtu.be/rQqwutj83tY?t=518" target="_blank">The loneliest place is being at a place where you're not wanted.</a><br>
 	_On relationships. - 2023.09.19_
 
-1. <a href="https://www.instagram.com/p/CfSEIB8vS-U/?igshid=YmMyMTA2M2Y=">I can motivate you with money. I can motivate you with fear. Those are temporary. The only thing that will last is self-motivation.</a><br>
+1. <a href="https://www.instagram.com/p/CfSEIB8vS-U/?igshid=YmMyMTA2M2Y=" target="_blank">I can motivate you with money. I can motivate you with fear. Those are temporary. The only thing that will last is self-motivation.</a><br>
 	_On motivation - 2022.06.26_
 
-1. <a href="https://youtu.be/Vdp1dxoJJZ0?list=PLmXo7E5OdjLexK22NVqMXOzoxXZaGErJZ&t=4666">We met at the airport, and we took a train… to Florence. So we all through the countryside. We be in one of those nice [train] carts. They just bringing us and bringing us and bringing us stuff. You know I'm like kicked up. I'm like okay I could get used to this.</a><br>
+1. <a href="https://youtu.be/Vdp1dxoJJZ0?list=PLmXo7E5OdjLexK22NVqMXOzoxXZaGErJZ&t=4666" target="_blank">We met at the airport, and we took a train… to Florence. So we all through the countryside. We be in one of those nice [train] carts. They just bringing us and bringing us and bringing us stuff. You know I'm like kicked up. I'm like okay I could get used to this.</a><br>
+
+1. <a href="https://youtu.be/5AuARaQRhsw?t=235" target="_blank">If you order [lobester]...</a><br>
+
 
 <br><br><br>
 _Shannon Sharpe may have derived these quotes from other people or sources. I'm not attributing him to all of these quotes, but I'm giving him credit as my personal source of these quotes._

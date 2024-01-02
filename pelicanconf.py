@@ -42,8 +42,5 @@ THEME_STATIC_DIR = 'theme'
 #RELATIVE_URLS = True
 
 # For setting the favicon
-STATIC_PATHS = [
-    'extra',
-]
-
+STATIC_PATHS = ['extra']
 EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}
