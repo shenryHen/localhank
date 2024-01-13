@@ -16,6 +16,8 @@ _It's not just hackNY applicants that procrastinate, reviewers do too._
 
 _C's get degrees._
 
+---
+
 ## People who just learned about urbanism, talking about urbanism
 ![Sophomoric urbanists will say "just add a train! lmao. Buses are bad!"]({static}/images/memes/talking_about_urbanism.jpg)
 
