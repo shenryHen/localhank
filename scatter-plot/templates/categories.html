@@ -4,9 +4,9 @@
 {% block content %}
 <div class="article-content"> 
 	<h1>{{ SITENAME }} Category List</h1>
-	<div class="article-list">
+	<div class="category-list">
 	{% for cat, art in categories %}
-		<h2><a href="{{cat.url}}">{{ cat }}</a></h2>
+		<h2><a href="{{cat.url}}">{{ cat.name.capitalize() }}</a></h2>
 	{% endfor %}
 	</div>
 </div>

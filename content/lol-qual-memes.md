@@ -19,12 +19,11 @@ _C's get degrees._
 ---
 
 ## People who just learned about urbanism, talking about urbanism
-![Sophomoric urbanists will say "just add a train! lmao. Buses are bad!"]({static}/images/memes/talking_about_urbanism.jpg)
+![Sophomoric urbanists will say "Just add a train! lmao. Buses are bad!"]({static}/images/memes/talking_about_urbanism.jpg)
 
 _Sophomoric urbanists will say "just add a train! lmao. Buses are bad!"_
 
 ---
-
 
 ## Not Just Bikes going full eurocentric when labeling Montreal as the best North American City
 ![Sad to see such a huge urbanist creator dunk on his NA fans.]({static}/images/memes/njb_euro_centric.jpg)

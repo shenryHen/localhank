@@ -16,10 +16,10 @@ Slug: sharpe-quotes
 5. What they're starting to do is take his kindness for weakness. He might have to touch somebody...he might have to put hands on somebody - you don't have to be a catholic priest.<br>
 	_On people generally disrespecting LeBron James and assuming his kind nature is a weakness  - 2017.14.11_
 
-1. <a href="https://youtu.be/6-00hORvE_0?t=1218" target="_blank"> If you see me fighting a bear don't help me, help the bear. And pour honey on me. Cuz I want him to stay right there. Cuz he'll take off and start running when I start whipping him. But if I got honey on me he'll be like "oooh" that tastes good, so I can whip him longer.</a><br>
+1. <a href="https://youtu.be/6-00hORvE_0?t=1218" target="_blank"> If you see me fighting a bear don't help me, help the bear. And pour honey on me.</a><br>
 	_On being confident that LeBron will beat the LA Clippers, even at full strength, in the 2021 playoffs, that he'll take almost whatever bet on it. - 2021.12.22_
 
-1. <a href="https://youtu.be/EVK8Fb8W7Cw?t=255" target="_blank">Can you stop this foolishness? They gone ban you from Twitter. If you keep tweeting misleading statements, "that Kevin Durant is the best player in the NBA", they gon ban ya. The last guy that did that, he got banned permanently. I don't want you to get banned for a year Skip for tweeting misleading statements!</a><br>
+1. <a href="https://youtu.be/EVK8Fb8W7Cw?t=255" target="_blank">Can you stop this foolishness? They gone ban you from Twitter if you keep tweeting misleading statements...The last guy that did that, he got banned permanently. I don't want you to get banned for a year, Skip, for tweeting misleading statements!</a><br>
 	_On Skip Bayless tweeting misinformation that Kevin Durant is the best Player in the NBA. It's obviously still LeBron James, 2021.12.26_
 
 1. <a href="https://youtu.be/-6mVloLOBKM" target="_blank">Discipline will allow you to live up to expectations.</a><br>
@@ -32,9 +32,13 @@ Slug: sharpe-quotes
 	_On motivation - 2022.06.26_
 
 1. <a href="https://youtu.be/Vdp1dxoJJZ0?list=PLmXo7E5OdjLexK22NVqMXOzoxXZaGErJZ&t=4666" target="_blank">We met at the airport, and we took a train… to Florence. So we all through the countryside. We be in one of those nice [train] carts. They just bringing us and bringing us and bringing us stuff. You know I'm like kicked up. I'm like okay I could get used to this.</a><br>
+	_On enjoying trains in Italy - 2023.10.06_
 
-1. <a href="https://youtu.be/5AuARaQRhsw?t=235" target="_blank">If you order [lobester]...</a><br>
+1. <a href="https://youtu.be/5AuARaQRhsw?t=235" target="_blank">If you order [lobster]...</a><br>
+	_On what goes with lobster at dinner - 2023.10.23_
 
+1. <a href="">"I don't need a lot of love, I just need love from the people that I love. I don't need the world to love me"</a><br>
+	_On caring who he receives love from - 2023.11.27_
 
 <br><br><br>
 _Shannon Sharpe may have derived these quotes from other people or sources. I'm not attributing him to all of these quotes, but I'm giving him credit as my personal source of these quotes._

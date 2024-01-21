@@ -22,4 +22,4 @@ Updated: 2023-12-29
 1. [During the Fourth of July celebration, many of you slept well. You know why? Because in '20 and '21 the city felt like Iraq. We didn't have that anymore this year.](https://www.youtube.com/watch?v=gqVk4gItCiA&ab_channel=ForbesBreakingNews)
 1. [All across the country, the DSA socialists are mobilizing to stop Eric Adams.](https://jacobin.com/2022/08/eric-adams-war-on-socialism-nyc-dsa-gonzalez-brisport)
 1. [I don't believe that people should be able to just take over our streets and march in our street. I don't believe people should be able to take over our bridges. I just don't believe you can run a city this complex where people can just do whatever they want.](https://apnews.com/article/jfk-lax-palestine-protest-israel-airports-dd5981ea903961f77309c27a7b52ed07)
-
+1. ["I'm speaking to you as an adult, don’t stand in front like you treating someone that's on the plantation that you own. Give me the respect I deserve and engage in the conversation."](https://www.politico.com/news/2023/06/30/adams-plantation-owner-holocaust-survivor-00104437)

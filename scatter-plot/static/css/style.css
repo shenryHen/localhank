@@ -49,18 +49,16 @@ img {
 	padding: 2px
 }
 
-.content {
+.base-content {
 	max-width: 750px;
 	margin: 0 auto 200px auto;
 	padding: 10px;
-}
-
-.article-content {
-	font-family: Verdana, sans-serif;
+	font-family: Verdana sans-serif;
 	font-size: 1.4em;
 	line-height: 32px;
 }
 
-.category-item {
-	font-size: 2em;
+.category-list {
+	font-family: Arial serif;
+	font-size: 1.5em;
 }
