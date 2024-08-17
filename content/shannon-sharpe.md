@@ -4,17 +4,19 @@ Updated: 2023-12-26
 Category: quote lists
 Slug: sharpe-quotes
 
-1. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>
+1. What they're starting to do is take his kindness for weakness. He might have to touch somebody...he might have to put hands on somebody - you don't have to be a catholic priest.<br>
+	_On people generally disrespecting LeBron James and assuming his kind nature is a weakness  - 2017.14.11_
+
+4. Club Shay Shay, known for entertainment, but the brunch, is banging<br>
+	_On his literal and metaphorical restaurant after the Lakers beat the Clippers on 2020, March 8th. - 2020.3.9_
+
+2. <a href="https://www.youtube.com/watch?v=A-ynOpt2VXw&t=256s" target="_blank">Sometimes a man can make his destiny on the very road he took to avoid it.</a><br>
 	_On the LA Clippers making their destiny by blowing a 3-1 lead in the NBA Playoffs after they talked so much shit about how they were better than the Lakers, how their team was only focused on the playoffs, and how they underestimated everyone else and only focused on the Lokers. - 2020.9.16_ 
 
 1. <a href="https://youtu.be/AwjnTYThz54?t=14" target="_blank">This is not speculation, this is not conjecture, this in not innuendo, this is fact. LeBron James has more playoff buzzer beaters than every other player that got a vote</a><br>
 	_On LeBron James having the most playoff buzzerbeaters in the NBA, despite getting no votes in NBA general managers survey on which player they want to take the last shot in a close game. - 2020.12.22._ 
  
-4. Club Shay Shay, known for entertainment, but the brunch, is banging<br>
-	_On his literal and metaphorical restaurant after the Lakers beat the Clippers on 2020, March 8th. - 2020.3.9_
 
-5. What they're starting to do is take his kindness for weakness. He might have to touch somebody...he might have to put hands on somebody - you don't have to be a catholic priest.<br>
-	_On people generally disrespecting LeBron James and assuming his kind nature is a weakness  - 2017.14.11_
 
 1. <a href="https://youtu.be/6-00hORvE_0?t=1218" target="_blank"> If you see me fighting a bear don't help me, help the bear. And pour honey on me.</a><br>
 	_On being confident that LeBron will beat the LA Clippers, even at full strength, in the 2021 playoffs, that he'll take almost whatever bet on it. - 2021.12.22_
@@ -37,8 +39,11 @@ Slug: sharpe-quotes
 1. <a href="https://youtu.be/5AuARaQRhsw?t=235" target="_blank">If you order [lobster]...</a><br>
 	_On what goes with lobster at dinner - 2023.10.23_
 
-1. <a href="">"I don't need a lot of love, I just need love from the people that I love. I don't need the world to love me"</a><br>
+1. <a href="https://www.youtube.com/shorts/HQw0SyHPYoo" target="_blank">"I don't need a lot of love, I just need love from the people that I love. I don't need the world to love me"</a><br>
 	_On caring who he receives love from - 2023.11.27_
+
+1. <a href="https://youtu.be/54UftPWxZJg?t=2255" target="_blank">It's the thing that makes us great that makes us most fallible</a></br>
+	_On athletes thinking they can do anything, so the believe nothing can happen to them - 2024.02.24_
 
 <br><br><br>
 _Shannon Sharpe may have derived these quotes from other people or sources. I'm not attributing him to all of these quotes, but I'm giving him credit as my personal source of these quotes._
